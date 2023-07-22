@@ -1,6 +1,12 @@
 # amazon_scrap
 Scraping on Amazon data store in csv
 
+- Install requirements.txt on your python environment
+- activate environment
+- run .py file
+- open .csv file
+- ----------------------------------------------------------------------------------------------------------------------------
+
 #                                          Python Assignment
 
 # _Part 1_
