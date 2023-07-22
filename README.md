@@ -3,7 +3,7 @@ Scraping on Amazon data store in csv
 
 - Install requirements.txt on your python environment
 - activate environment
-- run .py file
+- run scrap.py file
 - open .csv file
 - ----------------------------------------------------------------------------------------------------------------------------
 
